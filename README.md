@@ -3,11 +3,8 @@
 I usually go by the name - Kavi ✨
 
 - 📚 I'm currently pursuing M.S in Computer Science specializing in AI/ML.
-- 🔭 I'm currently experimenting with Multi-Modal Learning, Deep Learning and Reinforcement Learning.
-- 🚗 I used to work on Autonomous vehicle Radar chip software for target detection and object classification.
-- 🌱 I'm currently learning about Multi-Modal Machine Learning, Graph neural networks and Generative AI
-- 💬 Open to discuss about ML/DL/RL algorithms, Graph Neural Networks, Generative AI, Multimodal ML, FPGAs, and anything that involves making a machine intelligent!
-- 📨 Reach me at : sashibharkavi@gmail.com.
+- 🔭 I am passionate about software development and technology in general. 💻 🖥 ⌨️
+- 🌱 I am comfortable coding in C, C++, Java, R , Python, Go,👩🏻‍💻
 - 📫 Feel free to connect via LinkedIn : https://www.linkedin.com/in/bsachithanandam/ 
 - 🔮 Fun Fact : I am a beach person and love spending time reading a book along the Bay!
 
